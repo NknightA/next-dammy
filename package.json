@@ -1,0 +1,25 @@
+{
+  "name": "next-dammy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NknightA/next-dammy.git"
+  },
+  "keywords": [],
+  "author": "nknight_amamiya <n.knight.pc0627@gmail.com> (https://npm.pkg.github.com/nknight_amamiya)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NknightA/next-dammy/issues"
+  },
+  "homepage": "https://github.com/NknightA/next-dammy#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
